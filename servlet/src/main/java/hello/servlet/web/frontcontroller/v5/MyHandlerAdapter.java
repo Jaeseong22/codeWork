@@ -7,7 +7,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-public interface MyHandllerAdapter {
+public interface MyHandlerAdapter {
 
     boolean supports(Object handler);
 
