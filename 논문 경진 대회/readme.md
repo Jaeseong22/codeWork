@@ -13,3 +13,5 @@
    
 ### 코드 설명
 1. V. Chidurala and X. Li, "Occupancy Estimation Using Thermal Imaging Sensors and Machine Learning Algorithms," IEEE, vol. 8627, pp. 8627-8638, March 2021.
+2. 위에 논문을 바탕으로 공개 데이터를 기반으로 파이썬을 사용한 다양한 모델 기반 코드를 작성하였습니다.
+3. 그 중 가장 정확도가 높았던 랜덤포레스트 기반에 모델로 응급실 혼잡도 실시간 점유도 추정 시스템을 설계하였습니다.
